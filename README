@@ -1,0 +1,6 @@
+CSU-OReilly-Safari-Bookshelf-Drupal-module
+Author: Rob deMallac
+
+This is my first project on GitHub.  Go easy. ;-)
+
+This is a Drupal module to access O'Reilly's Safari Bookshelf.  It provides a little carosel slideshow of book covers which function as links to the corresponing titles online.  This only works if you are on the CSU's network.
